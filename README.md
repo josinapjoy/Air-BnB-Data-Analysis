@@ -22,5 +22,4 @@
 * Number of Categorical Features = 9
 * Number of Features with Null/ Missing Values = 6
 
-
-
+<img src="https://user-images.githubusercontent.com/66690240/143215723-2ab84d94-11a0-4114-80a0-4483162d6384.png" alt="alt text" width="450" height="450">
